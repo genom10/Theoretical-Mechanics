@@ -13,7 +13,7 @@ Most of them contain animations that are only playable in Google Colab. Links be
 - [Weekly HW 6](https://colab.research.google.com/drive/1GZLGYQpvlmTkp9NSZyP-pAd-1OCQzjOw)
 
 ## Research Homeworks
-- [Research HW 1](https://colab.research.google.com/drive/1E-F7ZfIYEG1LBx5DbzCV--RPXk7nBjIX)
+- [Research HW 1](https://colab.research.google.com/drive/1E-F7ZfIYEG1LBx5DbzCV--RPXk7nBjIX) | 
 [Research HW 1 Task](RE1/TM_big_hw1_description.pdf)
-- [Research HW 2](https://colab.research.google.com/drive/1XhoVi7SKO3oYObaG5tfao4a8jNgTDQ-P)
+- [Research HW 2](https://colab.research.google.com/drive/1XhoVi7SKO3oYObaG5tfao4a8jNgTDQ-P) | 
 [Research HW 2 Task](RE2/TM_big_hw2_description.pdf)
